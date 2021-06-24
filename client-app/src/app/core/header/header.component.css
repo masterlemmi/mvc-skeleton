@@ -1,0 +1,11 @@
+.logo {
+    width: 2rem;
+    height: 2rem;
+    background-image: url("https://drive.google.com/uc?export=view&id=1HG6rgpQUI7XAzplpO0Y8Nt9E6dm7pOpv");
+    background-size: cover;
+    background-position: center center;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
