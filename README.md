@@ -8,6 +8,8 @@
 mvn spring-boot:run 
 or 
 java -jar app.jar
+or
+intellij start app
 
 #start UI
 cd client-app  
